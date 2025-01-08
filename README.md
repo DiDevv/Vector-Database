@@ -5,12 +5,16 @@ Em cada módulo, cada etapa do código é explicada. Todas as informações cont
 
 Acredito firmemente que o conhecimento só é válido quando é compartilhado. Por isso, espero que de certa forma esse conteúdo te ajude e me ajude a construir uma linda carreira nessa área ao qual eu sou apaixonado.
 
+---
+
 # Observações
 
 Se ao ler os materiais você se deparar com alguma informação errada ou incompleta, fica a vontade em me contatar, bora aprender juntos e tornar esse material cada vez mais rico e acessível. 
 
+---
+
 # Sumário
 
-# **Módulo 1** - Similarity Search (Busca por Similaridade)
-# **Módulo 2** - Retrieval-Augmented Generation  (RAG)
-# **Módulo 3** - Recommender Systems (Sistemas de Recomendação)
+## **Módulo 1** - Similarity Search (Busca por Similaridade)
+## **Módulo 2** - Retrieval-Augmented Generation  (RAG)
+## **Módulo 3** - Recommender Systems (Sistemas de Recomendação)
