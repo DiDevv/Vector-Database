@@ -5,6 +5,11 @@ Em cada módulo, cada etapa do código é explicada. Todas as informações cont
 
 Acredito firmemente que o conhecimento só é válido quando é compartilhado. Por isso, espero que de certa forma esse conteúdo te ajude e me ajude a construir uma linda carreira nessa área ao qual eu sou apaixonado.
 
+## Leituras Recomendadas
+
+**O que são banco de dados vetoriais?**
+  - [Artigo da IBM sobre Banco de dados Vetoriais](https://www.ibm.com/br-pt/topics/vector-database)
+
 ---
 
 # Observações
